@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Ольгерд_фон_Эверек.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Ольгерд_фон_Эверек 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Ольгерд_фон_Эверек 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
